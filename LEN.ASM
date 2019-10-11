@@ -4,7 +4,7 @@
         mov ah,09h
         int 21h
 endm
-
+//hyy
 data segment
         res dw 10 dup(?)
         arr dw 10 dup(?)
